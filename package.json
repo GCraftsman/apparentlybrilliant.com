@@ -1,0 +1,12 @@
+{
+  "name": "apparentlybrilliant.com",
+  "private": true,
+  "description": "Website for Apparently Brilliant, LLC",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
